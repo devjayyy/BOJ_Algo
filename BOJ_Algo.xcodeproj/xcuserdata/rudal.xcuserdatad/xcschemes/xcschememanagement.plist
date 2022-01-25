@@ -139,6 +139,11 @@
 			<key>orderHint</key>
 			<integer>25</integer>
 		</dict>
+		<key>bruteForce1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
 		<key>function1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -173,6 +178,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>43</integer>
+		</dict>
+		<key>recursion4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>44</integer>
 		</dict>
 		<key>string1.xcscheme_^#shared#^_</key>
 		<dict>
