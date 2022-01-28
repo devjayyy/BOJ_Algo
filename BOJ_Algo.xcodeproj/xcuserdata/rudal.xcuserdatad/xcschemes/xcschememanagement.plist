@@ -149,6 +149,21 @@
 			<key>orderHint</key>
 			<integer>46</integer>
 		</dict>
+		<key>bruteForce3.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>bruteForce4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>48</integer>
+		</dict>
+		<key>bruteForce5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
 		<key>function1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
