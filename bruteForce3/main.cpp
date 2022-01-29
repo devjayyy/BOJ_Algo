@@ -2,13 +2,13 @@
 //자신보다 큰 몸무게와 키를 가진 사람이 있을 경우
 //등수를 1등씩 밀어나가는 방식으로 풀이
 #include <iostream>
-#include <utility>
+#include <utility> //pair
 using namespace std;
 
-int main() {
+int main() { //덩치등수
     int num;
     int rank = 1;
-    pair<int,int> arr[50];
+    pair<int,int> arr[50]; //pair class//몸무게//키
     cin >> num;
     for(int i = 0; i < num; i++)
         cin >> arr[i].first >> arr[i].second;

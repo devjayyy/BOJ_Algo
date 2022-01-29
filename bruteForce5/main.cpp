@@ -7,8 +7,8 @@
 using namespace std;
 int Findseries(int N)
 {
-    int i = 666;
-    int series = 0;
+    int i = 666; //
+    int series = 0; //
     string target;
     while(1)
     {
@@ -27,6 +27,6 @@ int Findseries(int N)
 }
 int main() {
     int N;
-    cin >> N;
+    cin >> N;//2
     cout << Findseries(N);
 }

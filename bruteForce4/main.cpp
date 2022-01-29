@@ -57,16 +57,16 @@ int main() {
     int size[2];
     int cnt;
     int min_val = 12345;
-    pair<int, int> p1;
+    pair<int, int> p1; //WB //BW
     cin >> p1.first >> p1.second;
     for(int i = 0; i < p1.first; i++)
-        cin >> board[i];
+        cin >> board[i]; //입력
     for(int i = 0; i + 8 <= p1.first; i++)
     {
         for(int j = 0; j + 8 <= p1.second; j++)
         {
             int tmp;
-            tmp = min(WB_cnt(i,j),BW_cnt(i,j));
+            tmp = min(WB_cnt(i,j),BW_cnt(i,j)); //
             if(tmp < min_val) {
                 min_val = tmp;
             }
