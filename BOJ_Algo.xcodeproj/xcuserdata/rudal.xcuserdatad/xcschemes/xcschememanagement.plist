@@ -204,6 +204,11 @@
 			<key>orderHint</key>
 			<integer>44</integer>
 		</dict>
+		<key>sort1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>50</integer>
+		</dict>
 		<key>string1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
